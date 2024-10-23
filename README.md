@@ -2,7 +2,7 @@
 
 <h1 align="center">Luxury-estate</h1>
 <h5 align="center">
-Welcome to XenonStack! A full-stack application designed for vacation homes and rentals.
+Welcome to Luxury-estate! A full-stack application designed for vacation homes and rentals.
 </h5>
 
 <br/>
