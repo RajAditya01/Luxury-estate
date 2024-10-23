@@ -19,7 +19,7 @@ Welcome to Luxury-estate! A full-stack application designed for vacation homes a
 
 ## Overview
 
-XenonStack is a full-stack web application aimed at providing a seamless experience for users looking for vacation homes and rental properties. With a focus on responsive design and user experience, it allows users to browse property listings, authenticate securely, and receive recommendations based on their history.
+Luxury-estate is a full-stack web application aimed at providing a seamless experience for users looking for vacation homes and rental properties. With a focus on responsive design and user experience, it allows users to browse property listings, authenticate securely, and receive recommendations based on their history.
 
 ## Key Features
 
